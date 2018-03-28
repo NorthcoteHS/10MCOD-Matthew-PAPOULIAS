@@ -1,0 +1,2 @@
+GitHub: https://www.github.com/mattp111/fortniteapi
+PyPi: https://pypi.python.org/pypi/fortniteapi/1.0.9
