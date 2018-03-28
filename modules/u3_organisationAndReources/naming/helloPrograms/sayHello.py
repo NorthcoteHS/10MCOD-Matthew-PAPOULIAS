@@ -1,5 +1,5 @@
 """
-Prog:   ???
+Prog:   sayHello.py
 Name:   Student Name
 Date:   12/03/18
 Desc:   Says hello to the user.

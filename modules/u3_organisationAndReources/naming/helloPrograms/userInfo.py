@@ -13,14 +13,14 @@ name = input('First Name: ')
 name2 = input('Last Name: ')
 
 # Get user's birth date.
-dob = input('Birth Year: ')
-dob2 = input('Birth Month: ')
-dob3 = input('Birth Day: ')
+dob_year = input('Birth Year: ')
+dob_month = input('Birth Month: ')
+dob_day = input('Birth Day: ')
 
 # Get user's favourites.
-red = input('Favourite colour: ')
-omgmusic = input('Favourite song: ')
-footyobvz = input('Favourite sport: ')
+colour = input('Favourite colour: ')
+song = input('Favourite song: ')
+sport = input('Favourite sport: ')
 
 # Display exit message.
 print('Thank you, your information has been saved.')
